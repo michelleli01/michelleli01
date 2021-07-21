@@ -1,9 +1,9 @@
 ### Hi there 👋
 My name is Michelle and I'm currently a sophmore computer science student attending Cornell University. Here's some info to get to know me!
 
-[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/michelleli0/)
-[![Website Badge](https://img.shields.io/badge/-jessicalim.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://michelleyueli.web.app)
-[![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:myl39@cornell.com)
+[![Linkedin Badge](https://img.shields.io/badge/-michelleli0-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michelleli0/)](https://www.linkedin.com/in/michelleli0/)
+[![Website Badge](https://img.shields.io/badge/-michelleyueli.web.app-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://michelleyueli.web.app)
+[![Gmail Badge](https://img.shields.io/badge/-myl39-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:myl39@cornell.com)
 
 🔭 Work Experience: <br>
 - Software Developer Intern at Aeyesafe: Full stack development using ReactJS, NodeJS, ExpressJS, and Firebase [Remote. Summer 2021]

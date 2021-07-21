@@ -1,6 +1,10 @@
 ### Hi there 👋
 My name is Michelle and I'm currently a sophmore computer science student attending Cornell University. Here's some info to get to know me!
 
+[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/michelleli0/)
+[![Website Badge](https://img.shields.io/badge/-jessicalim.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://michelleyueli.web.app)
+[![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:myl39@cornell.com)
+
 🔭 Work Experience: <br>
 - Software Developer Intern at Aeyesafe: Full stack development using ReactJS, NodeJS, ExpressJS, and Firebase [Remote. Summer 2021]
 - Undergraduate Researcher at SciFi Lab @ Cornell University: Developed and trained CRNN machine learning models to distinguish between 7 basic emotions [Ithaca, NY. Spring 2021]
@@ -8,7 +12,7 @@ My name is Michelle and I'm currently a sophmore computer science student attend
 ⚡ Current Project:
 - HTrack: Habit tracking app to help users develop more productive routines and fulfilling lifestyles
 
-### Technologies
+#### Technologies I Use
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
@@ -21,20 +25,3 @@ My name is Michelle and I'm currently a sophmore computer science student attend
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
-
-💬 Be sure to reach out via email (myl39@cornell) or Linkedin (www.linkedin.com/in/michelleli0)! OR 📫 visit my website to get to know more! www.michelleyueli.web.app
-
-<!--
-**michelleli01/michelleli01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

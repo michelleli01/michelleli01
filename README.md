@@ -10,8 +10,8 @@ My name is Michelle and I'm currently a sophmore computer science student attend
 - Software Developer Intern at Aeyesafe: Full stack development using ReactJS, NodeJS, ExpressJS, and Firebase [Remote. Summer 2021]
 - Undergraduate Researcher at SciFi Lab @ Cornell University: Developed and trained CRNN machine learning models to distinguish between 7 basic emotions [Ithaca, NY. Spring 2021]
 
-⚡ Current Project:
-- HTrack: Habit tracking app to help users develop more productive routines and fulfilling lifestyles
+⚡ Projects:
+- HTrack: Habit tracking app and weekly planner to help users develop more productive routines and fulfilling lifestyles built using MongoDB, Express.js, React.js, and Node.js (MERN stack)
 
 #### Technologies I Use
 <p>

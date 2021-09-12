@@ -8,7 +8,7 @@ My name is Michelle and I'm currently a sophomore computer science student atten
 
 🔭 Work Experience: <br>
 - Software Developer Intern at Aeyesafe: Full stack development using ReactJS, NodeJS, ExpressJS, and Firebase [Remote. Summer 2021]
-- Undergraduate Researcher at SciFi Lab @ Cornell University: Developed and trained CRNN machine learning models to distinguish between 7 basic emotions [Ithaca, NY. Spring 2021]
+- Undergraduate Researcher at SciFi Lab @ Cornell University: Trained CRNN machine learning models to distinguish between 7 basic emotions [Ithaca, NY. Spring 2021]
 
 ⚡ Projects:
 - HTrack: Habit tracking app and weekly planner to help users develop more productive routines and fulfilling lifestyles built using MongoDB, Express.js, React.js, and Node.js (MERN stack)

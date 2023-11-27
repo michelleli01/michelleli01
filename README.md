@@ -17,7 +17,8 @@ Information Science (Data Science Concentration) 📊
 [![Gmail Badge](https://img.shields.io/badge/-myl39-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:myl39@cornell.com)
 
 🔭 Work Experience: <br>
-- Software Developer Intern @ Microsoft: Azure VMWare Solutions Infrastructure Systems Team! [Seattle, Washington. Summer 2022]
+- Software Engineer Intern @ Microsoft: Azure VMWare Solutions Infrastructure Systems Team! [Seattle, Washington. Summer 2023]
+- Software Engineer Intern @ Microsoft: Azure VMWare Solutions Infrastructure Systems Team! [Seattle, Washington. Summer 2022]
 - Software Developer Intern @ Aeyesafe: Full stack development using ReactJS, NodeJS, ExpressJS, and Firebase [Remote. Summer 2021]
 - Undergraduate Researcher at SciFi Lab @ Cornell University: Trained CRNN machine learning models to distinguish between 7 basic emotions [Ithaca, NY. Spring 2021]
 

@@ -1,5 +1,6 @@
 Hi 👋 I'm Michelle and I'm currently a software engineer at Microsoft. I recently graduated from Cornell University studying Computer Science in the College of Engineering. 
 
+Previously... <br>
 - Software Engineer Intern @ Microsoft [Seattle, Washington. Summer 2023]
 - Software Engineer Intern @ Microsoft [Seattle, Washington. Summer 2022]
 - Backend Developer Intern @ Aeyesafe [Remote. Summer 2021]

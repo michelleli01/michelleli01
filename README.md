@@ -1,16 +1,5 @@
 ### Hi there 👋
-My name is Michelle and I'm currently a senior computer science student attending Cornell University. Here's some info to get to know me!
-
-##### Major: 
-Computer Science 💻
-
-##### Minor: 
-Information Science (Data Science Concentration) 📊
-
-#### Hobbies:
-- Rock climbing! 🧗‍♀️
-- Listening to music 🎶
-- Hiking 🥾
+My name is Michelle and I'm currently a software engineer at Microsoft. I recently graduated from Cornell University studying Computer Science in the College of Engineering. 
 
 #### Contact ME!
 [![Linkedin Badge](https://img.shields.io/badge/-michelleli0-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michelleli0/)](https://www.linkedin.com/in/michelleli0/)

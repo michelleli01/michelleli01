@@ -19,4 +19,5 @@ My name is Michelle and I'm currently a software engineer at Microsoft. I recent
 Some Fun Stats:
 <br>
 ![Most Used Languages](https://api.githubtrends.io/user/svg/michelleli01/langs?time_range=one_year&compact=True&theme=dark)
+<br>
 ![Most Contributed Repos](https://api.githubtrends.io/user/svg/michelleli01/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark)

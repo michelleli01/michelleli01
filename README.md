@@ -15,3 +15,5 @@ My name is Michelle and I'm currently a software engineer at Microsoft. I recent
 - HTrack: Habit tracking app and weekly planner to help users develop more productive routines and fulfilling lifestyles built using MongoDB, Express.js, React.js, and Node.js (MERN stack)
 - Personal portfolio: Get to know a little bit about me! 
 - More to come...
+
+![Most Used Languages](https://api.githubtrends.io/user/svg/michelleli01/langs?time_range=one_year&compact=True&theme=dark)
